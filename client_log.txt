@@ -1,0 +1,63 @@
+[Wed Nov 27 18:02:40 2024] Server started
+[Wed Nov 27 18:02:40 2024] Auctions initialized
+[Wed Nov 27 18:02:40 2024] Server listening for connections
+[Wed Nov 27 18:02:51 2024] New client connected
+[Wed Nov 27 18:03:58 2024] New user registered: 
+[Wed Nov 27 18:04:24 2024] Server started
+[Wed Nov 27 18:04:24 2024] Auctions initialized
+[Wed Nov 27 18:04:24 2024] Server listening for connections
+[Wed Nov 27 18:04:28 2024] New client connected
+[Wed Nov 27 18:06:14 2024] Server started
+[Wed Nov 27 18:06:14 2024] Auctions initialized
+[Wed Nov 27 18:06:14 2024] Server listening for connections
+[Wed Nov 27 18:06:42 2024] New client connected
+[Wed Nov 27 18:10:26 2024] New user registered: 
+[Wed Nov 27 18:10:39 2024] Server started
+[Wed Nov 27 18:10:39 2024] Auctions initialized
+[Wed Nov 27 18:10:39 2024] Server listening for connections
+[Wed Nov 27 18:10:43 2024] New client connected
+[Wed Nov 27 18:10:48 2024] New client connected
+[Wed Nov 27 18:15:02 2024] New user registered: 
+[Wed Nov 27 18:15:21 2024] Server started
+[Wed Nov 27 18:15:21 2024] Auctions initialized
+[Wed Nov 27 18:15:21 2024] Server listening for connections
+[Wed Nov 27 18:15:27 2024] New client connected
+[Wed Nov 27 18:15:36 2024] New user registered: pc921
+[Wed Nov 27 18:25:08 2024] Server started
+[Wed Nov 27 18:25:08 2024] Auctions initialized
+[Wed Nov 27 18:25:08 2024] Server listening for connections
+[Wed Nov 27 18:25:13 2024] New client connected
+[Wed Nov 27 18:25:21 2024] New user registered: pc921
+[Wed Nov 27 18:29:34 2024] Server started
+[Wed Nov 27 18:29:34 2024] Auctions initialized
+[Wed Nov 27 18:29:34 2024] Server listening for connections
+[Wed Nov 27 18:29:38 2024] New client connected
+[Wed Nov 27 18:30:05 2024] New client connected
+[Wed Nov 27 18:30:11 2024] New user registered: pc921
+[Wed Nov 27 18:30:27 2024] Server started
+[Wed Nov 27 18:30:27 2024] Auctions initialized
+[Wed Nov 27 18:30:27 2024] Server listening for connections
+[Wed Nov 27 18:31:27 2024] Server started
+[Wed Nov 27 18:31:27 2024] Auctions initialized
+[Wed Nov 27 18:31:27 2024] Server listening for connections
+[Wed Nov 27 18:31:43 2024] New client connected
+[Wed Nov 27 18:31:54 2024] New user registered: pc921
+
+[2024-12-06 12:52:59] Client starting up...
+[2024-12-06 12:52:59] Connected to the auction server
+[2024-12-06 12:53:20] Attempt 1: Username entered: user1
+[2024-12-06 12:53:22] Attempt 1: Authentication result: Authentication successful
+
+[2024-12-06 12:53:22] Authentication successful.
+[2024-12-06 12:53:22] Received initial auction list: Welcome to the Auction! Current items:
+Auction ID 1: Antique Vase, Current Bid: 50.00 (Minimum next bid: 60.00)
+Auction ID 2: Vintage Car, Current Bid: 500.00 (Minimum next bid: 600.00)
+Auction ID 3: Adventure 360, Current Bid: 200.00 (Minimum next bid: 240.00)
+Auction ID 4: Yamaha 340, Current Bid: 180.00 (Minimum next bid: 216.00)
+Auction ID 5: Tata Power, Current Bid: 350.00 (Minimum next bid: 420.00)
+
+[2024-12-06 12:53:30] Sending bid: 1 80
+
+[2024-12-06 12:53:30] Received server response: Update: Auction ID 1: New highest bid is 80.00 by Client 0
+Minimum next bid required: 96.00
+
